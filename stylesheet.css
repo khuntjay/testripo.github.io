@@ -1,0 +1,40 @@
+.video{
+    width: 100%;
+    height: auto;
+    position: fixed;
+}
+
+.videotext{
+    
+    position: fixed;
+    padding: 7%;
+    margin: 4%;
+    width: auto;
+    height: auto;
+    left: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 150%;
+    color: mediumseagreen;
+    background: rgba(0,0, 0, 0.4);
+    
+    
+    
+
+}
+.videobtn{
+   width: auto;
+    background-color: wheat;
+    
+    padding: 10px;
+    left: 50%;
+    top: 50%;
+    
+
+
+    
+}
+.videobtndiv{
+    
+    text-align: center;
+
+}
